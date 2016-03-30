@@ -1,0 +1,5 @@
+ButtonHandler	KEYWORD1
+
+ButtonHandler	KEYWORD2
+init	KEYWORD2
+handle	KEYWORD2
